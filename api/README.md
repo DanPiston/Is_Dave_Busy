@@ -1,5 +1,4 @@
 ### Back-end application
 
-# PHP - maybe Slim framework
-
-# or Python?
+# SLIM framework right now (http://www.slimframework.com/)
+	or we go to python if this ends up being dumb. 

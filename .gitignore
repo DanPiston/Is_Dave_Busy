@@ -1,0 +1,3 @@
+.vagrant/
+api/vendor/
+Vagrantfile
