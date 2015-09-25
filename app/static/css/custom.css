@@ -1,0 +1,14 @@
+.red-hot{
+	color:red;
+	font-weight:bold;
+}
+
+.mastfoot > div > p {
+	font-size:0.75em !important;
+	letter-spacing: 0.3em;
+	font-family: helveltica !important;
+}
+
+.subtle a:visited, a:hover {
+	text-decoration: none;
+}

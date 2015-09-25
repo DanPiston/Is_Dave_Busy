@@ -1,7 +1,23 @@
 {
-  "name": "HelloIonic",
-  "private": "true",
-  "devDependencies": {
-    "ionic": "driftyco/ionic-bower#1.0.1"
+  "name": "Is_Dave_Busy",
+  "version": "0.0.0",
+  "homepage": "https://github.com/DudePal/Is_Dave_Busy",
+  "authors": [
+    "dave <davidianlandis@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.5",
+    "angular-bootstrap": "~0.13.4",
+    "angular-route": "~1.4.5"
   }
 }
